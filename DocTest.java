@@ -22,4 +22,5 @@ public class DocTest {
 
     // 通过命令行 javadoc 参数 java 文件
     //javadoc -encoding UTF-8 -charset UTF-8 DocTest.java
+    //test1
 }
